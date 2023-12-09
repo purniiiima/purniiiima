@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purniiiima
+- 👋 Hi, I’m Purnima.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Programming languages like Java, Javascript.
 
