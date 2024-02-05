@@ -27,7 +27,7 @@ Hi, I'm Purnima Baroi, a passionate software developer based in Gurugram, Haryan
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=purniiiima&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
 
 ### 🌱 Random Fun Fact
