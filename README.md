@@ -1,5 +1,4 @@
-# Purnima
-
+# ⋆  🎀  𝒫𝓊𝓇𝓃𝒾𝓂𝒶  🎀  ⋆
 ## Welcome to My GitHub Profile! 👋
 
 Hi, I'm Purnima Baroi, a passionate software developer based in Gurugram, Haryana. I thrive on mastering diverse programming languages, constantly learning, and striving for perfection in each. Let's code together and explore the world of possibilities! 🚀
